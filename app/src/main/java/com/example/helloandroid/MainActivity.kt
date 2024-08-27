@@ -6,6 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 
+//Comentário de alteração 1.1
 class MainActivity : AppCompatActivity() {
     //TESTE 1
     override fun onCreate(savedInstanceState: Bundle?) {
